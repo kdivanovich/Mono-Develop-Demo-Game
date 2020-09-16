@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>D:/University/2 - Games Architecture/Coursework WORKSPACE/Wacky Adventure Workspace/Wacky Adventures - FINAL/WackyAdventures/PlatformerMG/Content/Fonts/gameFont.spritefont</SourceFile>
+  <SourceTime>2020-08-08T17:11:52+02:00</SourceTime>
+  <DestFile>D:/University/2 - Games Architecture/Coursework WORKSPACE/Wacky Adventure Workspace/Wacky Adventures - FINAL/WackyAdventures/PlatformerMG/Content/bin/Windows/Content/Fonts/gameFont.xnb</DestFile>
+  <DestTime>2020-09-15T23:06:05.9201277+02:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2018-12-08T18:35:54+02:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2018-12-08T18:35:54+02:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
