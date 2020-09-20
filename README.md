@@ -8,7 +8,7 @@
 
 ## Controls:
 
-##### W/Space/Up - Jump
+##### W/Space/Up - jump
 ##### A/D/Left/Right - go left/right
 ##### Shift/Q - toggle toon shader on/off
 
