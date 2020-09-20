@@ -1,6 +1,6 @@
 # Mono-Develop-Demo-Game
 
-##### This demonstration game comes to show a simple platfomer/hack'n'slash concept.
+##### This demonstration game that comes to show a simple platfomer/hack'n'slash concept.
 ##### It is by no means a finished project, but more of a demo of those ideas.
 ##### The player goes through 3 levels, trying to get as many points as possible - points are given for the diamonds picked up and the amount of time saved.
 ##### For a more details and insight on the game design please see the 2D_Platformer PDF, which also illustrates the concepts with annotated screenshots.
